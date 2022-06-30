@@ -209,9 +209,9 @@ function call_zebra($function, $identifire_feild, $identifire_items, $xml_conten
 
   $url = "https://23096.zebracrm.com/ext_interface.php?b=" . $function;
 
-  $user_name = "מתכנת";
+  $user_name = "xxx";
 
-  $password = "pnima2021";
+  $password = "xxx";
 
 
 
