@@ -1,4 +1,4 @@
-# Pnima-exapmle-
+# Pnima-exapmle
 
 In this wordpress site (https://pnimatv.co.il/),
 I built an integration for registration and customer login.
